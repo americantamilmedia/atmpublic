@@ -1,0 +1,43 @@
+{
+  "version": 6,
+  "no_logo_img_200": "https://i.imgur.com/LrJFR2n.png",
+  "no_logo_img_400": "https://i.imgur.com/5YjBlbN.png",
+  "data": [
+    {
+      "id": 1,
+      "name": "ATR Main stream 1",
+      "s_desc": "Tamil Songs in High Quality",
+      "l_desc": "Stream with High quality bit rate using more internet data plan @ 1 MB per minute. If you see buffering problem due to slower internet speed, try the Normal Quality",
+      "link": "http://69.46.24.226:7188/stream",
+      "main_img": "https://i.imgur.com/N6Yi6bE.jpg",
+      "thumb_img": "https://i.imgur.com/ZKHYDj9.jpg",
+      "isPopular": false,
+      "genre": "Tamil melodies of 80s & 90s",
+      "location": "Dublin, California, USA"
+    },
+    {
+      "id": 2,
+      "name": "ATR Main stream 2",
+      "s_desc": "Tamil Songs in Normal Quality",
+      "l_desc": "Stream with normal quality bit rate using less internet data plan @ 0.5 MB per minute and it reduces the buffering problem where you have slow internet connection",
+      "link": "http://69.46.24.226:7188/stream2",
+      "main_img": "https://i.imgur.com/FFypD39.jpg",
+      "thumb_img": "https://i.imgur.com/rnC8ZTS.png",
+      "isPopular": false,
+      "genre": "Tamil melodies of 80s & 90s",
+      "location": "Dublin, California, USA"
+    },
+    {
+      "id": 3,
+      "name": "ATR New stream",
+      "s_desc": "Listen to songs from 2000s and later",
+      "l_desc": "World Tamil Radio brings Tamil songs released in 2000 and later. The broadcast quality is 128 kbps (HQ) bit rate",
+      "link": "http://69.46.24.226:7038/stream",
+      "main_img": "https://i.imgur.com/ev3bq2N.jpg",
+      "thumb_img": "https://i.imgur.com/sIcWE9Q.png",
+      "isPopular": false,
+      "genre": "Tamil New Songs",
+      "location": "Dublin, California, USA"
+    }
+  ]
+}
